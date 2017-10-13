@@ -58,7 +58,7 @@ public class Main {
                 if(i%17==0)
                     CountOfMultipleOfSeventeen=CountOfMultipleOfSeventeen+1;
                 //counts  the multiple of twenty three
-                if(i%17==0)
+                if(i%23==0)
                     CountOfMultipleOfTwentyThree=CountOfMultipleOfTwentyThree+1;
                 //counts  the multiple of twenty three
                 if(i%anotherNumber==0)
